@@ -108,7 +108,7 @@ export default {
 }
 
 .btn {
-  background-color: #F2F2F2;
+  background-color: rgb(206, 30, 30);
   border: 1px solid #999;
 }
 
